@@ -1,0 +1,5 @@
+__title__ = 'sereh'
+__description__ = 'Subtitle tools especially for Persians'
+__author = 'Majid Hajiloo'
+__url__ = 'https://github.com/mhajiloo/sereh'
+__version__ = '0.0.1'
